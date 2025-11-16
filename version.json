@@ -1,4 +1,5 @@
 {
-    "version": "1.1.0",
-    "changelog": "🆕 Thêm tính năng kiểm tra cập nhật.\n🐞 Sửa lỗi nhập ComboBox."
+    "version": "1.0.0",
+    "changelog": "Initial release.",
+    "download_url": "https://github.com/jackynguyen/update-checker/releases/download/v1.0.0/MyTool.exe"
 }
